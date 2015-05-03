@@ -1,0 +1,17 @@
+Start: Thu, 30 Apr 2015 17:30:17 -0800
+End: Thu, 30 Apr 2015 19:20:56 -0800
+Tasks: Worked on Multitable.php and figuring for loop for correct table output
+
+
+Start: Fri, 1 May 2015 16:45:45 -0800
+End: Fri, 1 May 2015 18:49:56 -0800
+Tasks: Worked on loopback and started on login and contents php.
+
+
+Start: Sat, 2 May 2015 11:22:34 -0800
+End: Sat, 2 May 2015 13:47:54 -0800
+Tasks: Finished loopback and having trouble with the login and contents with multiple user
+
+Start: Sun, 3 May 2015 12:12:23 -0800
+End: Sun, 3 May 2015 16:05:45 -0800
+Tasks: Unable to complete login when multiple users log in and keep track separately.
